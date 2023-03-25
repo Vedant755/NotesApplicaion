@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "NoteApplicationWithoutAuth"
+rootProject.name = "BluetoothChatApp"
 include ':app'
